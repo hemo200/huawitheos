@@ -1,2 +1,2 @@
 # huawithes
-A Prometheus  exporter for Huawei Switches
+A Prometheus exporter for Huawei Switches
